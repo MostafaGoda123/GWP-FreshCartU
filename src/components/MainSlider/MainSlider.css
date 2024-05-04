@@ -1,0 +1,15 @@
+.slick-dots {
+   position: absolute;
+   bottom: 10px ;
+   left: 50% ;
+   transform: translateX(-50%);
+}
+.slick-dots li.slick-active button::before {
+   color: var(--main-color);    
+
+}
+.slick-dots li button::before {
+   font-size: 8px;
+   color: var(--main-color);    
+}
+

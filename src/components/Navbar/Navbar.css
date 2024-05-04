@@ -1,0 +1,4 @@
+.nav-link.active ,
+.nav-link:hover {
+   color: var(--main-color) !important;
+}
